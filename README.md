@@ -1,2 +1,3 @@
 # playgroundv2
-TBD
+
+Building computer ground up
